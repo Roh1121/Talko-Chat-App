@@ -1,4 +1,4 @@
-![Chat App Screenshot](./frontend/src/chat app.png)
+![Chat App Screenshot](./frontend/src/chat-app.png)
 
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
